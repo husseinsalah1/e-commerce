@@ -1,0 +1,67 @@
+{"level":"error","message":"Error occurred: User already exists!","timestamp":"2024-07-07T04:12:40.780Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-07T04:15:42.889Z"}
+{"level":"error","message":"Error occurred: User already exists!","timestamp":"2024-07-07T04:15:42.915Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-07T04:16:38.517Z"}
+{"level":"error","message":"Error occurred: User already exists!","timestamp":"2024-07-07T04:16:38.546Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-07T04:47:52.009Z"}
+{"level":"error","message":"Error occurred: User already exists!","timestamp":"2024-07-07T04:47:52.032Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T04:47:57.441Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-07T04:47:57.445Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-07T04:48:01.836Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T04:48:08.186Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-07T04:48:08.201Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T04:48:58.840Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T04:49:42.667Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T04:50:22.102Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:03:32.194Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:05:58.929Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:06:30.343Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:07:08.655Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:09:37.179Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:09:38.210Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:11:16.456Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:11:17.443Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:11:18.144Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:12:30.829Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:12:31.702Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:14:50.228Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:14:51.053Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:16:58.506Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:17:25.040Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:20:39.849Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:21:05.454Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:21:27.560Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:21:43.537Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:24:04.663Z"}
+{"level":"info","message":"POST /api/products/create - ::1","timestamp":"2024-07-07T05:24:07.655Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-07T05:24:11.464Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:27:20.817Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:27:29.484Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:27:46.122Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-07T05:27:46.129Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:27:54.768Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-07T05:27:54.772Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:27:56.069Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-07T05:27:56.070Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:28:03.949Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-07T05:28:03.956Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:28:04.687Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-07T05:28:04.690Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:28:05.723Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-07T05:28:05.725Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-07T05:28:12.940Z"}
+{"level":"info","message":"GET /api/products/3 - ::1","timestamp":"2024-07-07T05:31:52.416Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-07T05:31:57.298Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-08T16:15:26.996Z"}
+{"level":"error","message":"Error occurred: User already exists!","timestamp":"2024-07-08T16:15:27.031Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-08T16:15:30.486Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-08T16:15:37.447Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-08T16:15:48.804Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-08T16:15:54.321Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-08T16:15:54.324Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-08T16:15:59.928Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-08T16:15:59.933Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-08T16:16:00.864Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-08T16:16:00.876Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-08T16:16:01.689Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-08T16:16:01.695Z"}
