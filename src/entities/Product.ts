@@ -6,8 +6,11 @@ import {
   CreateDateColumn,
   UpdateDateColumn,
   ManyToOne,
+  JoinColumn,
+  OneToMany,
 } from "typeorm";
 import User from "./User";
+import CartItem from "./CartItem";
 
 @Entity("products")
 class Product extends BaseEntity {
@@ -26,8 +29,12 @@ class Product extends BaseEntity {
   @Column("simple-array", { nullable: true })
   tags!: string[];
 
-  @ManyToOne(() => User, (user) => user.products)
+  @ManyToOne(() => User)
+  @JoinColumn({ name: "userId" })
   user!: User;
+
+  @OneToMany(() => CartItem, (cartItem) => cartItem.product)
+  cartItems!: CartItem[];
 
   @CreateDateColumn()
   createdAt!: Date;

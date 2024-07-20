@@ -1,37 +1,16 @@
 import { getCustomRepository, Repository } from "typeorm";
 import Product from "../entities/Product";
 import ProductRepository from "../repositories/ProductRepository";
+import BaseService from "./BaseService";
 
-class ProductService {
-  private productRepository: any;
+class ProductService extends BaseService<Product> {
+  private productRepository: ProductRepository = new ProductRepository();
   constructor() {
-    this.productRepository = ProductRepository.getInstance();
-  }
-  async create(product: Product) {
-    console.log(product);
-    const newProduct = this.productRepository.create(product);
-    return this.productRepository.save(newProduct);
+    super(new ProductRepository());
   }
 
-  async findAll(page: number = 1, limit: number = 10) {
-    const skip = (page - 1) * limit;
-
-    return this.productRepository.find({
-      skip,
-      take: limit,
-      relations: {
-        user: true,
-      },
-    });
-  }
-
-  async findOne(id: number) {
-    return this.productRepository.findOne({
-      where: { id },
-      relations: {
-        user: true,
-      },
-    });
+  async search(letter: string) {
+    return this.productRepository.search(letter);
   }
 }
 

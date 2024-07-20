@@ -19,7 +19,7 @@ export const signup = async (
   res: Response,
   next: NextFunction
 ) => {
-  console.log(signupSchema.parse(req.body));
+  signupSchema.parse(req.body);
   const { email, password } = req.body;
   let user = await userRepository.findOne({ where: { email } });
   if (user) {
@@ -63,7 +63,7 @@ export const login = async (
       userId: user.id,
     },
     JWT_SECRET,
-    { expiresIn: "1h" }
+    { expiresIn: "10h" }
   );
   res.status(200).json({ user, token });
 };

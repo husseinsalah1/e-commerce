@@ -21,7 +21,7 @@ export const errorHandler = (method: Function) => {
       } else {
         exception = new InternalException(
           "Internal Server Error",
-          error,
+          error.message,
           ErrorCodes.INTERNAL_EXCEPTION
         );
       }

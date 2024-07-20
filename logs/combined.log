@@ -65,3 +65,1127 @@
 {"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-08T16:16:00.876Z"}
 {"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-08T16:16:01.689Z"}
 {"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-08T16:16:01.695Z"}
+{"level":"info","message":"PUT /api/products/123 - ::1","timestamp":"2024-07-08T16:54:59.202Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-08T16:54:59.288Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T16:55:06.766Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-08T16:55:11.491Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T16:55:14.981Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-08T17:16:09.101Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T17:16:12.472Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-08T17:16:15.974Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-08T17:16:21.267Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T17:16:23.542Z"}
+{"level":"info","message":"DELETE /api/products/2 - ::1","timestamp":"2024-07-08T17:32:32.970Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-08T17:32:38.449Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-08T17:32:38.458Z"}
+{"level":"info","message":"DELETE /api/products/22 - ::1","timestamp":"2024-07-08T17:32:41.666Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-08T17:32:41.671Z"}
+{"level":"info","message":"DELETE /api/products/4 - ::1","timestamp":"2024-07-08T17:32:44.688Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T17:32:49.142Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T20:51:19.192Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T20:51:21.650Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T22:58:58.936Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-08T22:58:58.940Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T22:59:30.651Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T23:17:35.955Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:18:06.029Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-08T23:18:06.033Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-08T23:18:24.090Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-08T23:18:24.093Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-08T23:18:30.105Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-08T23:18:36.739Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-08T23:18:36.753Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-08T23:20:37.383Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:21:09.965Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:24:43.848Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:25:19.674Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:25:44.206Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:39:52.191Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:40:14.538Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:40:59.328Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:43:03.439Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:44:37.559Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:45:27.791Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:45:42.545Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:46:07.197Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:46:53.908Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:47:51.320Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:51:31.547Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-08T23:56:23.319Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T00:00:19.058Z"}
+{"level":"info","message":"GET /api/products/22 - ::1","timestamp":"2024-07-09T00:00:21.868Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-09T00:00:21.877Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T00:29:01.222Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:29:35.344Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T00:29:35.352Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T00:30:35.358Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:30:44.478Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:31:31.470Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-09T00:33:19.351Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T00:33:19.356Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:36:26.228Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-09T00:36:49.616Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T00:36:49.622Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-09T00:36:58.013Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T00:36:58.014Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:37:01.112Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:41:25.214Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:42:11.240Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T00:42:11.274Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:46:08.075Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T00:46:08.102Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:46:19.551Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T00:46:19.560Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:46:42.980Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T00:46:43.010Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:50:05.622Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T00:50:05.628Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T00:50:13.145Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:50:20.269Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:51:32.034Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T00:51:32.085Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:51:45.483Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:51:55.238Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T00:51:55.250Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:52:03.915Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:52:15.798Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T00:52:15.839Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:52:29.268Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:52:30.157Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:52:30.809Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T00:52:44.748Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-09T01:04:32.534Z"}
+{"level":"info","message":"DELETE /api/address/4 - ::1","timestamp":"2024-07-09T01:35:20.550Z"}
+{"level":"info","message":"DELETE /api/address/4 - ::1","timestamp":"2024-07-09T01:36:51.205Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T01:36:51.212Z"}
+{"level":"info","message":"DELETE /api/address/4 - ::1","timestamp":"2024-07-09T01:37:05.698Z"}
+{"level":"info","message":"DELETE /api/address/4123 - ::1","timestamp":"2024-07-09T01:37:10.410Z"}
+{"level":"error","message":"Error occurred: Address not found","timestamp":"2024-07-09T01:37:10.420Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T02:04:43.546Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T02:04:43.553Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T02:04:53.074Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T02:04:53.077Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T02:04:54.440Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T02:04:54.442Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T02:04:55.172Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T02:04:55.173Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T02:04:56.745Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T02:04:56.747Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T02:04:58.420Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T02:05:04.635Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T02:10:10.560Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T02:10:18.484Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T03:50:20.260Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T03:50:20.268Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T04:30:30.641Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T04:30:30.647Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T04:30:32.737Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:30:32.807Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T04:30:42.639Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:30:42.645Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T04:33:28.460Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T04:33:39.299Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:40:25.944Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:40:53.676Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:41:59.950Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:42:21.615Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:43:41.823Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:44:36.656Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:45:06.156Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:45:40.296Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:46:01.234Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:46:25.986Z"}
+{"level":"error","message":"Error occurred: Shipping address not found","timestamp":"2024-07-09T04:46:26.019Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T04:46:34.940Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:47:03.864Z"}
+{"level":"error","message":"Error occurred: Shipping address not found","timestamp":"2024-07-09T04:47:04.116Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:47:40.385Z"}
+{"level":"error","message":"Error occurred: Shipping address not found","timestamp":"2024-07-09T04:47:40.489Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:48:39.600Z"}
+{"level":"error","message":"Error occurred: Shipping address not found","timestamp":"2024-07-09T04:48:39.633Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:49:14.570Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:49:14.613Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:49:45.224Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:49:45.254Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T04:50:35.024Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:50:54.024Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:50:54.052Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T04:51:30.930Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:52:02.067Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:52:02.113Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:52:39.998Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T04:52:40.004Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T04:52:45.530Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:52:55.355Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:52:55.390Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:53:31.852Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:53:32.121Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:53:51.838Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:53:51.889Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:54:13.624Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:54:13.686Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:54:45.353Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T04:54:57.829Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:55:09.596Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:55:11.007Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:55:35.865Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:55:49.443Z"}
+{"level":"error","message":"Error occurred: User not found","timestamp":"2024-07-09T04:55:49.496Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:56:28.090Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-09T04:56:54.381Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-09T04:57:54.129Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-09T04:58:24.871Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:58:24.897Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-09T04:58:26.185Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:58:26.191Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-09T04:58:42.476Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:59:30.765Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:59:30.869Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T04:59:34.427Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T04:59:34.448Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T05:00:13.051Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T05:01:53.320Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-09T05:01:59.034Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-09T05:02:06.345Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-09T05:02:45.114Z"}
+{"level":"info","message":"PUT /api/address/2 - ::1","timestamp":"2024-07-09T05:11:25.403Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T05:11:25.409Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T05:11:37.138Z"}
+{"level":"info","message":"PUT /api/address/2 - ::1","timestamp":"2024-07-09T05:12:06.897Z"}
+{"level":"info","message":"PUT /api/address/234 - ::1","timestamp":"2024-07-09T05:12:11.219Z"}
+{"level":"error","message":"Error occurred: Address not found","timestamp":"2024-07-09T05:12:11.226Z"}
+{"level":"info","message":"PUT /api/address/2 - ::1","timestamp":"2024-07-09T05:12:14.244Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T05:12:24.859Z"}
+{"level":"info","message":"PUT /api/address/2 - ::1","timestamp":"2024-07-09T05:12:59.820Z"}
+{"level":"info","message":"PUT /api/address/2 - ::1","timestamp":"2024-07-09T05:13:01.569Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T05:13:04.443Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:17:34.838Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T05:17:34.844Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:17:46.103Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T05:17:46.205Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:17:47.364Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T05:17:47.371Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:18:20.313Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T05:18:20.353Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:19:22.210Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T05:19:22.249Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:20:09.920Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T05:20:10.149Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:20:41.951Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T05:20:41.989Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:22:11.338Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T05:22:11.369Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:22:49.924Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:23:06.833Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:23:07.728Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:23:08.460Z"}
+{"level":"info","message":"GET /api/address/2 - ::1","timestamp":"2024-07-09T05:23:36.709Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:24:35.402Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:25:02.289Z"}
+{"level":"info","message":"GET /api/products/22 - ::1","timestamp":"2024-07-09T05:25:38.776Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-09T05:25:38.815Z"}
+{"level":"info","message":"GET /api/products/22 - ::1","timestamp":"2024-07-09T05:25:39.688Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-09T05:25:39.693Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T05:25:44.858Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:25:57.159Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:26:10.204Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:26:32.478Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:26:33.354Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:26:34.130Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T05:27:41.093Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:27:48.525Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:30:26.436Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:30:45.636Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:30:47.751Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:30:48.520Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:30:49.406Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:30:50.161Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:31:04.390Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:31:05.454Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T05:31:08.750Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T05:31:48.888Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T05:33:31.794Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T05:34:55.705Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T05:35:42.909Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:35:53.124Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T05:35:58.538Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T05:35:58.540Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T05:36:07.602Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-09T05:36:18.695Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:37:33.206Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:37:47.247Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T05:37:47.269Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:37:55.545Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:38:34.415Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T05:38:34.422Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:38:49.181Z"}
+{"level":"error","message":"Error occurred: Address not found","timestamp":"2024-07-09T05:38:49.212Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:38:57.863Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-09T05:39:09.367Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T05:39:21.939Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T05:39:21.941Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T05:45:34.926Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T05:45:45.321Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T05:45:45.412Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T05:51:31.976Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T05:51:32.358Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:07:27.631Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T06:07:27.658Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:07:29.994Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T06:07:30.000Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:07:52.019Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T06:07:52.025Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:07:55.248Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T06:07:55.274Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:18:11.117Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T06:18:11.123Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:18:12.595Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-09T06:18:12.616Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:21:26.067Z"}
+{"level":"error","message":"Error occurred: Unexpected token } in JSON at position 132","timestamp":"2024-07-09T06:52:59.845Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:53:03.495Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T06:53:03.498Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:53:04.680Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T06:53:04.682Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:53:05.867Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T06:53:05.869Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-09T06:53:10.074Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:53:19.994Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T06:53:20.004Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:53:57.142Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T06:53:57.148Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:53:58.516Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T06:53:58.530Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:54:14.225Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-09T06:56:00.293Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T06:57:34.772Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T07:03:05.418Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T07:07:15.748Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T07:07:16.731Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T07:07:40.041Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T07:07:41.268Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:07:57.447Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:08:20.655Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:08:35.174Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:08:35.180Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:08:36.149Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:08:36.150Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:09:10.899Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:09:10.906Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:09:20.584Z"}
+{"level":"info","message":"DELETE /api/products/3 - ::1","timestamp":"2024-07-09T07:16:28.462Z"}
+{"level":"info","message":"DELETE /api/products/5 - ::1","timestamp":"2024-07-09T07:16:35.048Z"}
+{"level":"info","message":"DELETE /api/products/6 - ::1","timestamp":"2024-07-09T07:16:37.947Z"}
+{"level":"info","message":"DELETE /api/products/22 - ::1","timestamp":"2024-07-09T07:16:45.582Z"}
+{"level":"info","message":"DELETE /api/products/23 - ::1","timestamp":"2024-07-09T07:16:53.365Z"}
+{"level":"info","message":"DELETE /api/address/1 - ::1","timestamp":"2024-07-09T07:19:13.166Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-09T07:19:13.174Z"}
+{"level":"info","message":"DELETE /api/address/1 - ::1","timestamp":"2024-07-09T07:19:22.098Z"}
+{"level":"info","message":"DELETE /api/address/2 - ::1","timestamp":"2024-07-09T07:19:29.091Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:19:54.361Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:19:55.288Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:19:56.060Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:20:09.271Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T07:20:22.594Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T07:21:25.927Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-09T07:21:26.732Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:21:45.251Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:21:45.256Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:21:57.304Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:23:21.865Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:23:40.672Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:23:40.676Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:23:52.998Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:24:13.922Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:24:13.928Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:25:03.648Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:25:03.654Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:25:14.892Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:26:36.172Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:26:37.195Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:26:45.727Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:27:03.724Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:27:03.729Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:27:04.659Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:27:04.661Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:27:39.967Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:27:39.972Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:27:40.874Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:27:40.875Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:28:11.864Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:28:11.869Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:28:23.126Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:28:23.132Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:28:24.046Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:28:24.047Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:28:38.555Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:28:38.561Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:28:39.365Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:28:39.366Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:30:23.251Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:30:23.256Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:30:34.738Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:30:34.742Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:30:46.114Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:30:46.117Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:31:11.523Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:31:22.045Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:31:42.964Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:31:42.970Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:31:57.262Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:37:41.903Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:37:43.426Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:38:44.276Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:38:44.284Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:38:58.303Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:39:18.665Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-09T07:39:18.673Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:39:34.709Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:40:17.928Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:40:36.185Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:40:36.990Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:40:37.852Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:44:18.823Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:44:19.652Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:44:20.455Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:45:12.235Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:45:25.035Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-09T07:45:25.952Z"}
+{"level":"info","message":"GET /api/products/14 - ::1","timestamp":"2024-07-10T15:12:17.328Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-10T15:28:29.200Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-10T15:28:29.207Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-10T15:28:35.117Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-10T15:28:46.058Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-10T15:28:56.101Z"}
+{"level":"info","message":"GET /api/products/25 - ::1","timestamp":"2024-07-10T15:29:18.049Z"}
+{"level":"info","message":"GET /api/products/25 - ::1","timestamp":"2024-07-10T15:29:19.398Z"}
+{"level":"info","message":"PUT /api/products/25 - ::1","timestamp":"2024-07-10T15:30:15.096Z"}
+{"level":"info","message":"DELETE /api/products/23 - ::1","timestamp":"2024-07-10T21:07:48.270Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-10T21:07:48.497Z"}
+{"level":"info","message":"DELETE /api/products/23 - ::1","timestamp":"2024-07-10T21:43:33.897Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-10T21:43:33.996Z"}
+{"level":"info","message":"DELETE /api/products/23 - ::1","timestamp":"2024-07-10T21:45:16.361Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-10T21:45:16.383Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-10T21:45:25.544Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-10T21:45:26.960Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-10T21:45:43.091Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-10T21:45:43.098Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-11T16:47:47.288Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T16:47:47.294Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-11T16:47:57.359Z"}
+{"level":"info","message":"POST /api/address - ::1","timestamp":"2024-07-11T16:48:04.683Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-11T16:48:22.320Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T16:48:22.322Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-11T16:48:25.321Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-11T16:48:43.319Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T16:48:43.320Z"}
+{"level":"info","message":"GET /api/address/3 - ::1","timestamp":"2024-07-11T16:48:47.476Z"}
+{"level":"info","message":"PUT /api/address/3 - ::1","timestamp":"2024-07-11T16:50:37.147Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T16:50:37.153Z"}
+{"level":"info","message":"PUT /api/address/3 - ::1","timestamp":"2024-07-11T16:50:42.381Z"}
+{"level":"info","message":"DELETE /api/address/2 - ::1","timestamp":"2024-07-11T16:50:49.314Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T16:50:49.317Z"}
+{"level":"info","message":"DELETE /api/address/2 - ::1","timestamp":"2024-07-11T16:50:52.435Z"}
+{"level":"error","message":"Error occurred: Address not found","timestamp":"2024-07-11T16:50:52.444Z"}
+{"level":"info","message":"DELETE /api/address/3 - ::1","timestamp":"2024-07-11T16:50:56.479Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-11T16:51:00.989Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-11T16:51:30.193Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T16:51:30.195Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-11T16:51:34.082Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-11T16:51:38.910Z"}
+{"level":"info","message":"PUT /api/users/update - ::1","timestamp":"2024-07-11T16:51:44.225Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-11T17:39:32.542Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T17:39:39.488Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T17:39:39.492Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-11T17:39:56.738Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T17:40:05.759Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:41:36.979Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:41:53.468Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T17:41:53.477Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:42:08.412Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T17:42:08.435Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:42:30.696Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T17:42:30.713Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:42:32.315Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T17:42:32.392Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:43:52.043Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T17:43:52.075Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:44:15.284Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T17:44:15.483Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:44:17.097Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T17:44:17.107Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:44:18.237Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T17:44:18.248Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:44:44.803Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:45:09.385Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T17:45:09.483Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T17:45:59.157Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T17:46:01.147Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T17:47:45.329Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T17:47:50.891Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T17:48:26.065Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T17:50:16.970Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-11T17:50:47.529Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T17:50:47.531Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-11T17:51:00.865Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-11T17:51:42.784Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T17:52:09.274Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:52:17.891Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:52:57.467Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T17:52:57.475Z"}
+{"level":"info","message":"GET /api/cart/1 - ::1","timestamp":"2024-07-11T17:52:59.065Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:04:58.234Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T18:04:58.260Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:06:51.867Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:45:45.174Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T18:45:45.181Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:45:47.377Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T18:45:47.379Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:45:48.152Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T18:45:48.154Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:45:48.839Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T18:45:48.841Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-11T18:45:52.530Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:46:03.517Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:46:35.476Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-11T18:46:35.506Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:46:37.035Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-11T18:46:37.042Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:55:16.823Z"}
+{"level":"info","message":"DELETE /api/cart/6 - ::1","timestamp":"2024-07-11T18:55:27.882Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T18:55:27.886Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-11T18:55:39.517Z"}
+{"level":"info","message":"DELETE /api/cart/6 - ::1","timestamp":"2024-07-11T18:55:49.685Z"}
+{"level":"error","message":"Error occurred: Cart item not found","timestamp":"2024-07-11T18:55:49.699Z"}
+{"level":"info","message":"DELETE /api/cart/4 - ::1","timestamp":"2024-07-11T18:55:54.258Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:15:05.463Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T19:15:05.469Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:15:14.624Z"}
+{"level":"info","message":"PUT /api/cart/523 - ::1","timestamp":"2024-07-11T19:16:10.339Z"}
+{"level":"error","message":"Error occurred: Cart item not found","timestamp":"2024-07-11T19:16:10.369Z"}
+{"level":"info","message":"PUT /api/cart/4 - ::1","timestamp":"2024-07-11T19:21:23.812Z"}
+{"level":"error","message":"Error occurred: Cart item not found","timestamp":"2024-07-11T19:21:23.846Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:21:27.787Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:22:10.532Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:24:03.458Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:24:45.824Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:53:25.772Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T19:53:25.778Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:53:26.879Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T19:53:26.881Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:53:28.150Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T19:53:28.152Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-11T19:53:30.513Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T19:53:37.212Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T20:08:07.899Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T20:08:07.909Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T20:08:09.233Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T20:08:10.637Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T20:08:20.655Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T20:08:47.199Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T20:10:11.156Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T20:10:36.604Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T20:10:36.616Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T20:10:38.097Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-11T20:13:27.823Z"}
+{"level":"info","message":"GET /api/products/22 - ::1","timestamp":"2024-07-11T20:19:43.397Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-11T20:19:43.422Z"}
+{"level":"info","message":"GET /api/products/5 - ::1","timestamp":"2024-07-11T20:19:46.140Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-11T20:19:46.145Z"}
+{"level":"info","message":"GET /api/products/5 - ::1","timestamp":"2024-07-11T20:19:47.138Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-11T20:19:47.142Z"}
+{"level":"info","message":"GET /api/cart/5 - ::1","timestamp":"2024-07-11T20:20:18.072Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-11T20:20:18.075Z"}
+{"level":"info","message":"GET /api/cart/5 - ::1","timestamp":"2024-07-11T20:20:26.991Z"}
+{"level":"info","message":"GET /api/cart/5 - ::1","timestamp":"2024-07-11T20:36:10.696Z"}
+{"level":"info","message":"GET /api/cart/5 - ::1","timestamp":"2024-07-11T20:37:01.027Z"}
+{"level":"info","message":"GET /api/cart/5 - ::1","timestamp":"2024-07-11T20:37:02.022Z"}
+{"level":"info","message":"GET /api/cart/5 - ::1","timestamp":"2024-07-11T20:37:35.402Z"}
+{"level":"info","message":"GET /api/cart/5 - ::1","timestamp":"2024-07-11T20:37:55.827Z"}
+{"level":"info","message":"GET /api/cart/5 - ::1","timestamp":"2024-07-11T20:38:41.950Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T20:38:41.974Z"}
+{"level":"info","message":"GET /api/cart/5 - ::1","timestamp":"2024-07-11T20:38:42.874Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-11T20:38:42.880Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:16:15.057Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-13T21:16:15.062Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:16:17.170Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-13T21:16:17.173Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-13T21:16:21.050Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:16:28.184Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:20:04.153Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:20:05.272Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:27:34.304Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:27:35.852Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:27:36.705Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:27:37.551Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:27:38.372Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:29:10.555Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:31:17.918Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:31:18.824Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:31:19.571Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:32:13.780Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-13T21:32:13.786Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:32:15.036Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-13T21:32:15.061Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:32:15.868Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-13T21:32:15.876Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:32:49.080Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:32:49.109Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T21:33:30.737Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T23:04:21.890Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-13T23:04:21.903Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-13T23:04:43.790Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-13T23:05:20.225Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-13T23:20:02.216Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-13T23:20:02.219Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-13T23:20:26.186Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-13T23:20:26.277Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-13T23:20:31.982Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:32:13.573Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-14T00:32:13.578Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:32:14.757Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-14T00:32:14.760Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:32:19.867Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-14T00:32:19.892Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:33:34.613Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-14T00:33:34.650Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:33:35.567Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-14T00:33:35.586Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:33:58.688Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-14T00:39:45.101Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-14T00:39:46.142Z"}
+{"level":"info","message":"PUT /api/cart/5123 - ::1","timestamp":"2024-07-14T00:39:54.106Z"}
+{"level":"error","message":"Error occurred: Cart item not found","timestamp":"2024-07-14T00:39:54.130Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-14T00:39:57.125Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:40:44.998Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:40:45.963Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:41:08.168Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:41:08.453Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:41:21.905Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:41:22.118Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:41:33.975Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:44:37.016Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-14T00:44:37.022Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T00:44:38.291Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-14T02:21:48.596Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-14T02:21:55.790Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-14T02:21:55.792Z"}
+{"level":"info","message":"GET /api/address - ::1","timestamp":"2024-07-14T02:22:05.869Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-14T02:24:43.211Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-14T02:24:51.829Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-15T01:14:34.996Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:14:42.600Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:15:30.200Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:16:18.484Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:17:27.572Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:17:36.428Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:17:47.079Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:17:58.412Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:18:07.565Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:18:08.835Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:18:39.275Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:19:12.713Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:19:14.428Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:19:22.818Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-15T01:19:29.754Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:19:40.222Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-15T01:19:40.223Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:19:50.206Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:19:56.852Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:19:57.676Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:20:20.010Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:20:44.990Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:20:45.914Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:21:45.240Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T01:21:45.290Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:21:46.218Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T01:21:46.226Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:22:14.229Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:22:24.612Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:22:50.559Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-15T01:22:50.571Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:22:51.827Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:23:10.804Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:23:46.351Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-15T01:23:46.361Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:23:47.578Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:23:58.062Z"}
+{"level":"info","message":"PUT /api/cart/5 - ::1","timestamp":"2024-07-15T01:24:14.212Z"}
+{"level":"info","message":"PUT /api/cart/5as - ::1","timestamp":"2024-07-15T01:24:17.423Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T01:24:17.436Z"}
+{"level":"info","message":"PUT /api/cart/21 - ::1","timestamp":"2024-07-15T01:24:24.669Z"}
+{"level":"info","message":"PUT /api/cart/21124 - ::1","timestamp":"2024-07-15T01:24:30.003Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T01:24:30.011Z"}
+{"level":"info","message":"PUT /api/cart/21124 - ::1","timestamp":"2024-07-15T01:24:32.195Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T01:24:32.203Z"}
+{"level":"info","message":"PUT /api/cart/21124 - ::1","timestamp":"2024-07-15T01:24:59.383Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T01:24:59.447Z"}
+{"level":"info","message":"PUT /api/cart/21124 - ::1","timestamp":"2024-07-15T01:25:03.249Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T01:25:03.258Z"}
+{"level":"info","message":"PUT /api/cart/21124 - ::1","timestamp":"2024-07-15T01:26:39.495Z"}
+{"level":"error","message":"Error occurred: Cart item not found","timestamp":"2024-07-15T01:26:39.547Z"}
+{"level":"info","message":"PUT /api/cart/21124 - ::1","timestamp":"2024-07-15T01:26:41.000Z"}
+{"level":"error","message":"Error occurred: Cart item not found","timestamp":"2024-07-15T01:26:41.010Z"}
+{"level":"info","message":"PUT /api/cart/2 - ::1","timestamp":"2024-07-15T01:38:54.332Z"}
+{"level":"info","message":"PUT /api/cart/2 - ::1","timestamp":"2024-07-15T01:39:01.626Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-15T01:39:10.871Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-15T01:39:10.873Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-15T01:39:28.290Z"}
+{"level":"info","message":"PUT /api/cart/6 - ::1","timestamp":"2024-07-15T01:39:39.649Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-15T01:39:43.028Z"}
+{"level":"info","message":"GET /api/cart/6 - ::1","timestamp":"2024-07-15T01:39:44.979Z"}
+{"level":"info","message":"GET /api/cart/2 - ::1","timestamp":"2024-07-15T01:39:50.600Z"}
+{"level":"info","message":"DELETE /api/cart/product/4 - ::1","timestamp":"2024-07-15T02:44:36.573Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-15T02:44:36.579Z"}
+{"level":"info","message":"DELETE /api/cart/product/4 - ::1","timestamp":"2024-07-15T02:44:38.010Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-15T02:44:38.013Z"}
+{"level":"info","message":"DELETE /api/cart/product/4 - ::1","timestamp":"2024-07-15T02:44:46.838Z"}
+{"level":"info","message":"DELETE /api/cart/product/4 - ::1","timestamp":"2024-07-15T02:44:47.788Z"}
+{"level":"error","message":"Error occurred: This product is not in the cart","timestamp":"2024-07-15T02:44:47.802Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-15T02:45:08.319Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-15T02:45:08.321Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-15T02:45:22.722Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-15T02:45:22.816Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-15T02:47:39.626Z"}
+{"level":"info","message":"GET /api/cart/23 - ::1","timestamp":"2024-07-15T02:47:58.664Z"}
+{"level":"info","message":"GET /api/cart/23 - ::1","timestamp":"2024-07-15T02:48:00.343Z"}
+{"level":"info","message":"DELETE /api/cart/product/9 - ::1","timestamp":"2024-07-15T02:48:07.703Z"}
+{"level":"error","message":"Error occurred: This product is not in the cart","timestamp":"2024-07-15T02:48:07.718Z"}
+{"level":"info","message":"GET /api/cart/23 - ::1","timestamp":"2024-07-15T02:48:33.265Z"}
+{"level":"info","message":"GET /api/cart/23 - ::1","timestamp":"2024-07-15T02:48:34.151Z"}
+{"level":"info","message":"GET /api/cart/23 - ::1","timestamp":"2024-07-15T02:48:35.052Z"}
+{"level":"info","message":"GET /api/cart/23 - ::1","timestamp":"2024-07-15T02:48:36.499Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-15T02:48:54.496Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T02:48:54.565Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-15T02:49:26.712Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T02:49:26.794Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-15T02:49:27.703Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-15T02:49:27.720Z"}
+{"level":"info","message":"POST /api/cart - ::1","timestamp":"2024-07-15T03:13:06.648Z"}
+{"level":"info","message":"POST /api/cart/me - ::1","timestamp":"2024-07-15T03:15:25.992Z"}
+{"level":"info","message":"GET /api/cart/me - ::1","timestamp":"2024-07-15T03:15:45.786Z"}
+{"level":"info","message":"GET /api/cart/me - ::1","timestamp":"2024-07-15T03:15:47.522Z"}
+{"level":"info","message":"GET /api/cart/me - ::1","timestamp":"2024-07-15T03:16:12.334Z"}
+{"level":"info","message":"GET /api/cart/me - ::1","timestamp":"2024-07-15T03:16:59.544Z"}
+{"level":"info","message":"GET /api/cart/me - ::1","timestamp":"2024-07-15T03:17:19.428Z"}
+{"level":"info","message":"GET /api/cart/me - ::1","timestamp":"2024-07-15T03:17:20.397Z"}
+{"level":"info","message":"GET /api/cart/me - ::1","timestamp":"2024-07-15T03:18:00.078Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-15T23:53:51.682Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-15T23:53:58.880Z"}
+{"level":"error","message":"Error occurred: User not found!","timestamp":"2024-07-15T23:53:58.896Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-15T23:54:01.874Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-15T23:54:16.850Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-15T23:54:16.869Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-15T23:54:21.986Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-15T23:54:21.991Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-15T23:55:59.233Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-16T00:00:37.719Z"}
+{"level":"error","message":"Error occurred: Unprocessable Entity","timestamp":"2024-07-16T00:00:37.768Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-16T00:01:14.084Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-16T00:03:06.009Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-16T00:03:23.226Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-16T00:03:25.712Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-16T00:03:36.289Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-16T00:03:37.338Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-16T00:03:38.224Z"}
+{"level":"info","message":"GET /api/product/2 - ::1","timestamp":"2024-07-16T00:04:36.838Z"}
+{"level":"info","message":"GET /api/product/2 - ::1","timestamp":"2024-07-16T00:04:39.119Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-16T00:04:55.323Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-16T00:05:17.506Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-16T00:05:47.905Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-16T00:17:25.803Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-16T00:17:53.812Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-16T00:21:17.445Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T00:51:40.095Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T00:52:07.936Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T00:59:47.987Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T00:59:50.604Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T00:59:51.802Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T01:00:06.505Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T01:00:16.707Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T01:00:17.603Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T01:43:02.192Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:44:44.636Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:45:20.033Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:45:20.813Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:49:56.042Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:49:56.046Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:49:59.292Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:49:59.294Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T01:50:02.944Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T01:50:03.842Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:50:18.587Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:50:18.590Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:50:19.047Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:50:19.048Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:50:19.833Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:50:19.835Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:50:20.610Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:50:20.610Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:52:41.947Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:52:41.954Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:52:42.508Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:52:42.509Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:52:43.260Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:52:43.261Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:52:44.204Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T01:52:44.205Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T01:53:14.576Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T01:59:37.023Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T01:59:37.028Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T01:59:40.684Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T01:59:47.731Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T02:05:21.828Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T02:05:32.923Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T02:05:49.159Z"}
+{"level":"info","message":"GET /api/products/1 - ::1","timestamp":"2024-07-17T02:06:16.702Z"}
+{"level":"info","message":"DELETE /api/products/23 - ::1","timestamp":"2024-07-17T02:06:26.834Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T02:06:26.840Z"}
+{"level":"info","message":"DELETE /api/products/1 - ::1","timestamp":"2024-07-17T02:06:29.733Z"}
+{"level":"info","message":"GET /api/products/1 - ::1","timestamp":"2024-07-17T02:06:34.380Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T02:06:34.385Z"}
+{"level":"info","message":"DELETE /api/products/1 - ::1","timestamp":"2024-07-17T02:06:39.038Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T02:06:39.041Z"}
+{"level":"info","message":"PUT /api/products/25 - ::1","timestamp":"2024-07-17T02:09:29.520Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T02:09:29.624Z"}
+{"level":"info","message":"PUT /api/products/1 - ::1","timestamp":"2024-07-17T02:09:35.477Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T02:09:35.481Z"}
+{"level":"info","message":"PUT /api/products/1 - ::1","timestamp":"2024-07-17T02:09:36.592Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T02:09:36.597Z"}
+{"level":"info","message":"PUT /api/products/1 - ::1","timestamp":"2024-07-17T02:09:37.527Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T02:09:37.536Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-17T02:11:21.201Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T02:11:29.850Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-17T02:16:19.913Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-17T02:16:45.708Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-17T02:17:13.788Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T02:18:00.506Z"}
+{"level":"info","message":"DELETE /api/products/3 - ::1","timestamp":"2024-07-17T02:18:12.814Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T02:19:07.108Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-17T02:19:11.374Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T02:19:34.680Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T02:22:17.072Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T02:23:47.802Z"}
+{"level":"info","message":"PUT /api/products/3 - ::1","timestamp":"2024-07-17T02:24:08.367Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T02:24:08.384Z"}
+{"level":"info","message":"PUT /api/products/4 - ::1","timestamp":"2024-07-17T02:24:19.211Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T02:38:02.740Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T02:38:02.744Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T02:39:23.792Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T02:39:23.796Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T02:39:24.773Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T02:39:24.775Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T02:42:33.091Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:07:14.895Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:07:14.901Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:07:20.827Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:07:29.215Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:08:03.072Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:08:40.566Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:08:40.638Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:08:41.952Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:08:41.963Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:08:42.777Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:08:42.782Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:08:43.620Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:08:43.628Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:08:44.553Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:08:44.559Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:08:50.923Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T04:08:50.932Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:09:08.594Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T04:09:08.656Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:09:09.492Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T04:09:09.498Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:09:10.247Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T04:09:10.252Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:09:10.965Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T04:09:10.969Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:09:34.372Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T04:09:34.432Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:09:42.498Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-17T04:09:42.506Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:09:49.797Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T04:10:06.258Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:10:18.257Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:10:57.039Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:10:57.102Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:11:15.996Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:11:16.070Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:11:17.061Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:11:17.067Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:11:37.000Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:11:37.072Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:11:37.880Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:11:37.887Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:12:44.139Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:12:44.208Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:12:45.013Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:12:45.019Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:13:39.402Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-17T04:14:01.821Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:16:01.602Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T04:16:01.672Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:22:04.532Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T04:22:04.582Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:22:05.616Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T04:22:05.647Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:22:14.509Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:29:24.253Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:29:36.214Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:30:24.984Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:30:47.575Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:31:44.430Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:32:10.633Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:32:34.492Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:32:46.999Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:33:18.854Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T04:33:18.864Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:33:20.332Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:35:46.232Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:36:21.458Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:36:58.783Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:37:03.072Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:37:15.707Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:37:17.226Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:37:18.183Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:37:19.279Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:37:20.383Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T04:37:51.890Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-17T04:57:30.136Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:58:22.314Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T04:58:23.388Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T04:58:41.194Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T04:58:46.082Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T04:58:49.957Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:01:45.547Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-17T05:01:45.595Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:01:50.438Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","timestamp":"2024-07-17T05:03:53.150Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-17T05:03:57.370Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T05:04:09.545Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-17T05:04:16.344Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:09:46.470Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:13:12.975Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:16:43.072Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:17:09.865Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:17:36.576Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:17:51.916Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:18:01.508Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:18:31.006Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:18:31.966Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:18:57.611Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:18:58.430Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:19:11.009Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:22:19.035Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:22:30.015Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:22:32.019Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-17T05:22:32.920Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-17T05:24:29.779Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T05:24:29.789Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-17T05:24:30.960Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-17T05:24:30.962Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-17T05:24:40.868Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T17:58:24.083Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-19T17:58:24.088Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T17:58:25.190Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-19T17:58:25.192Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-19T17:58:28.200Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T17:58:36.656Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T18:46:53.244Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-19T18:46:59.017Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T18:47:15.025Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-19T18:47:15.028Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-19T18:47:19.689Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T18:47:40.298Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T18:47:43.019Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T18:47:44.032Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T18:48:18.450Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T18:48:46.420Z"}
+{"level":"error","message":"Error occurred: Product not found!","timestamp":"2024-07-19T18:48:46.445Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T18:48:58.314Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T18:49:02.715Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T18:49:06.428Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T18:49:07.314Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T18:49:08.155Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T18:49:12.201Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T18:49:18.934Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T18:49:42.789Z"}
+{"level":"info","message":"DELETE /api/cart/remove/3 - ::1","timestamp":"2024-07-19T20:50:10.742Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-19T20:50:10.748Z"}
+{"level":"info","message":"DELETE /api/cart/remove/3 - ::1","timestamp":"2024-07-19T20:50:25.906Z"}
+{"level":"error","message":"Error occurred: Cart item not found!","timestamp":"2024-07-19T20:50:25.973Z"}
+{"level":"info","message":"DELETE /api/cart/remove/3 - ::1","timestamp":"2024-07-19T20:50:47.789Z"}
+{"level":"error","message":"Error occurred: Product not found in cart!","timestamp":"2024-07-19T20:50:47.973Z"}
+{"level":"info","message":"DELETE /api/cart/remove/2 - ::1","timestamp":"2024-07-19T20:50:51.634Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T20:50:55.155Z"}
+{"level":"info","message":"PUT /api/cart/update/1 - ::1","timestamp":"2024-07-19T20:57:17.839Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-19T20:57:17.845Z"}
+{"level":"info","message":"PUT /api/cart/update/1 - ::1","timestamp":"2024-07-19T20:57:30.838Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-19T20:57:35.823Z"}
+{"level":"info","message":"GET /api/cart/checkout - ::1","timestamp":"2024-07-19T20:59:18.863Z"}
+{"level":"info","message":"PUT /api/cart/update/1 - ::1","timestamp":"2024-07-19T20:59:30.512Z"}
+{"level":"info","message":"GET /api/cart/checkout - ::1","timestamp":"2024-07-19T20:59:32.797Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-19T21:03:56.383Z"}
+{"level":"info","message":"DELETE /api/cart/items/clear - ::1","timestamp":"2024-07-19T21:07:41.000Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-19T21:07:46.086Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-19T21:07:53.722Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-19T21:07:57.903Z"}
+{"level":"info","message":"PUT /api/cart/update/1 - ::1","timestamp":"2024-07-19T21:08:01.822Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-19T21:08:04.031Z"}
+{"level":"info","message":"GET /api/cart/checkout - ::1","timestamp":"2024-07-19T23:07:48.264Z"}
+{"level":"info","message":"GET /api/cart/checkout - ::1","timestamp":"2024-07-19T23:08:08.138Z"}
+{"level":"info","message":"GET /api/cart/checkout - ::1","timestamp":"2024-07-19T23:08:23.028Z"}
+{"level":"info","message":"GET /api/cart/checkout - ::1","timestamp":"2024-07-19T23:09:27.650Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:22:56.339Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-19T23:22:56.357Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:23:14.413Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:23:22.435Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:23:34.263Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:23:38.878Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:23:48.386Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:23:49.210Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:24:06.888Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:24:19.017Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-19T23:24:59.917Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-20T00:49:42.146Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-20T00:50:14.208Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T00:50:14.212Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-20T00:50:19.323Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-20T00:50:28.401Z"}
+{"level":"info","message":"GET /api/products/3 - ::1","timestamp":"2024-07-20T00:50:43.528Z"}
+{"level":"info","message":"DELETE /api/products/3 - ::1","timestamp":"2024-07-20T00:50:53.074Z"}
+{"level":"info","message":"PUT /api/products/2 - ::1","timestamp":"2024-07-20T00:50:59.980Z"}
+{"level":"info","message":"GET /api/products/2 - ::1","timestamp":"2024-07-20T00:51:06.153Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-20T00:54:53.015Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-20T00:54:55.871Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T01:30:18.774Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T01:30:20.327Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T01:30:21.146Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T01:30:21.849Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-20T02:06:28.608Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-20T02:06:33.792Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T02:06:33.796Z"}
+{"level":"info","message":"GET /api/auth/me - ::1","timestamp":"2024-07-20T02:06:42.159Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-20T02:51:19.614Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-20T02:51:50.906Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-20T02:51:58.722Z"}
+{"level":"info","message":"GET /api/products/5 - ::1","timestamp":"2024-07-20T02:52:16.278Z"}
+{"level":"info","message":"PUT /api/products/5 - ::1","timestamp":"2024-07-20T02:52:32.484Z"}
+{"level":"info","message":"DELETE /api/products/3 - ::1","timestamp":"2024-07-20T02:52:40.648Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-20T02:52:40.654Z"}
+{"level":"info","message":"DELETE /api/products/4 - ::1","timestamp":"2024-07-20T02:52:45.134Z"}
+{"level":"info","message":"DELETE /api/products/4 - ::1","timestamp":"2024-07-20T03:05:58.270Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-20T03:05:58.305Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-20T03:27:36.141Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-20T03:27:36.252Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-20T03:27:38.179Z"}
+{"level":"error","message":"Error occurred: Internal Server Error","timestamp":"2024-07-20T03:27:38.183Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-20T04:01:05.991Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-20T04:01:14.095Z"}
+{"level":"info","message":"POST /api/products - ::1","timestamp":"2024-07-20T04:01:35.303Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-20T04:01:39.363Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-20T04:01:45.096Z"}
+{"level":"info","message":"GET /api/products/5 - ::1","timestamp":"2024-07-20T04:01:47.652Z"}
+{"level":"info","message":"GET /api/products/5 - ::1","timestamp":"2024-07-20T04:01:49.181Z"}
+{"level":"info","message":"PUT /api/products/5 - ::1","timestamp":"2024-07-20T04:01:57.050Z"}
+{"level":"info","message":"DELETE /api/products/4 - ::1","timestamp":"2024-07-20T04:02:00.672Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-20T04:02:00.679Z"}
+{"level":"info","message":"DELETE /api/products/6 - ::1","timestamp":"2024-07-20T04:02:04.027Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-20T04:02:11.576Z"}
+{"level":"info","message":"GET /api/products/search - ::1","timestamp":"2024-07-20T04:02:16.247Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:12:29.549Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:12:31.042Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:12:31.791Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:12:32.836Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:19:13.941Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:19:18.610Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:19:22.955Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:19:29.595Z"}
+{"level":"error","message":"Error occurred: Product not found!","timestamp":"2024-07-20T04:19:29.609Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:27:33.785Z"}
+{"level":"error","message":"Error occurred: Cannot read properties of undefined (reading 'getUserCart')","timestamp":"2024-07-20T04:27:33.806Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:28:23.021Z"}
+{"level":"error","message":"Error occurred: Product not found!","timestamp":"2024-07-20T04:28:23.069Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:41:21.813Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:41:33.081Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:42:15.684Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:43:37.535Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-20T04:43:37.573Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:43:38.899Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-20T04:43:38.912Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:43:45.722Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-20T04:43:45.744Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:43:49.059Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:43:50.715Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:48:34.911Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T04:48:34.917Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:48:35.856Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T04:48:35.859Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:48:36.893Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T04:48:36.895Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:50:24.512Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T04:50:24.513Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:50:25.432Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T04:50:25.434Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","timestamp":"2024-07-20T04:50:36.105Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:50:44.035Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:50:45.142Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T04:50:45.880Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:37:08.054Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-20T05:41:12.058Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-20T05:41:49.233Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-20T05:41:50.264Z"}
+{"level":"info","message":"GET /api/cart - ::1","timestamp":"2024-07-20T05:41:51.187Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:42:26.857Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T05:42:26.863Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:42:34.589Z"}
+{"level":"info","message":"DELETE /api/cart/items/3 - ::1","timestamp":"2024-07-20T05:42:52.824Z"}
+{"level":"info","message":"DELETE /api/cart/remove/3 - ::1","timestamp":"2024-07-20T05:43:22.619Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T05:43:22.621Z"}
+{"level":"info","message":"DELETE /api/cart/remove/3 - ::1","timestamp":"2024-07-20T05:43:33.878Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T05:43:33.880Z"}
+{"level":"info","message":"DELETE /api/cart/remove/3 - ::1","timestamp":"2024-07-20T05:43:35.746Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T05:43:35.748Z"}
+{"level":"info","message":"DELETE /api/cart/remove/3 - ::1","timestamp":"2024-07-20T05:43:36.492Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T05:43:36.493Z"}
+{"level":"info","message":"DELETE /api/cart/remove/3 - ::1","timestamp":"2024-07-20T05:44:15.358Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T05:44:15.364Z"}
+{"level":"info","message":"DELETE /api/cart/remove/3 - ::1","timestamp":"2024-07-20T05:44:52.305Z"}
+{"level":"error","message":"Error occurred: Product not found in cart","timestamp":"2024-07-20T05:44:52.350Z"}
+{"level":"info","message":"DELETE /api/cart/remove/4 - ::1","timestamp":"2024-07-20T05:44:58.419Z"}
+{"level":"error","message":"Error occurred: Product not found in cart","timestamp":"2024-07-20T05:44:58.454Z"}
+{"level":"info","message":"DELETE /api/cart/remove/4 - ::1","timestamp":"2024-07-20T05:45:04.804Z"}
+{"level":"error","message":"Error occurred: Product not found in cart","timestamp":"2024-07-20T05:45:04.830Z"}
+{"level":"info","message":"DELETE /api/cart/remove/4 - ::1","timestamp":"2024-07-20T05:45:37.769Z"}
+{"level":"error","message":"Error occurred: Product not found in cart","timestamp":"2024-07-20T05:45:37.816Z"}
+{"level":"info","message":"DELETE /api/cart/remove/4 - ::1","timestamp":"2024-07-20T05:46:13.854Z"}
+{"level":"error","message":"Error occurred: Product not found in cart","timestamp":"2024-07-20T05:46:13.904Z"}
+{"level":"info","message":"DELETE /api/cart/remove/5 - ::1","timestamp":"2024-07-20T05:46:34.121Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:46:38.173Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T05:46:38.177Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:46:40.856Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T05:46:40.859Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:46:41.747Z"}
+{"level":"error","message":"Error occurred: Unauthorized access!","timestamp":"2024-07-20T05:46:41.749Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:46:47.657Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:53:03.469Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-20T05:53:03.519Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:53:06.698Z"}
+{"level":"error","message":"Error occurred: Product not found","timestamp":"2024-07-20T05:53:06.716Z"}
+{"level":"info","message":"GET /api/products - ::1","timestamp":"2024-07-20T05:53:12.425Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:53:21.066Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:53:28.320Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:53:29.358Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:53:30.260Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:53:31.179Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:53:35.743Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:53:36.943Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:53:38.974Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:53:44.006Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:54:01.624Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:54:02.891Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:54:04.197Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:54:05.074Z"}
+{"level":"info","message":"POST /api/cart/add-item - ::1","timestamp":"2024-07-20T05:54:05.992Z"}
+{"level":"info","message":"GET /api/cart/items - ::1","timestamp":"2024-07-20T05:54:12.128Z"}

@@ -6,6 +6,7 @@ import ProductControllers from "./../controllers/products";
 
 const productsRouter: Router = Router();
 const productControllers = new ProductControllers();
+
 productsRouter
   .route("/")
   .post(
@@ -14,6 +15,9 @@ productsRouter
   )
   .get(errorHandler(productControllers.findAll));
 
-productsRouter.route("/:id").get(errorHandler(productControllers.findOne));
+productsRouter.route("/search").get(errorHandler(productControllers.search));
 
+productsRouter.route("/:id").get(errorHandler(productControllers.findOne));
+productsRouter.route("/:id").put(errorHandler(productControllers.update));
+productsRouter.route("/:id").delete(errorHandler(productControllers.delete));
 export default productsRouter;

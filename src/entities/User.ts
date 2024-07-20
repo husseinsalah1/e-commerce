@@ -6,8 +6,12 @@ import {
   CreateDateColumn,
   UpdateDateColumn,
   OneToMany,
+  OneToOne,
+  JoinColumn,
 } from "typeorm";
 import Product from "./Product";
+import Address from "./Address";
+import Cart from "./Cart";
 
 export enum Role {
   ADMIN = "ADMIN",
@@ -38,11 +42,26 @@ class User extends BaseEntity {
   })
   role!: Role;
 
+  @Column({
+    default: 0,
+  })
+  defaultShippingAddress!: number;
+  @Column({
+    default: 0,
+  })
+  defaultBillingAddress!: number;
+
   @Column()
   birthDate!: Date;
 
   @OneToMany(() => Product, (product) => product.user)
   products!: Product[];
+
+  @OneToMany(() => Address, (address) => address.user)
+  addresses!: Address[];
+
+  @OneToOne(() => Cart, (cart) => cart.user, { cascade: true })
+  cart!: Cart;
 
   @CreateDateColumn()
   createdAt!: Date;
